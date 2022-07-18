@@ -40,7 +40,7 @@ The final implementation should result in the user being updated on page load by
 ```
 * FrontEnd
 ```
-    cd server
+    cd client
     npm install
     npm run start
 ```
