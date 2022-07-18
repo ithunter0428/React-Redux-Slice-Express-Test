@@ -1,0 +1,24 @@
+{
+  "name": "mini-express-app",
+  "version": "0.0.6",
+  "description": "mini express app",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "ha ha, no."
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "3.0.8",
+    "body-parser": "1.19.0",
+    "cors": "^2.8.5",
+    "express": "4.17.1",
+    "knex": "0.20.8",
+    "pg": "7.18.1"
+  }
+}
