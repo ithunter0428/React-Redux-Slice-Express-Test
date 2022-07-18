@@ -1,5 +1,6 @@
 # React-Redux-Slice-Express-Test
 
+## Description
 ### Purpose
 
 This project is designed to test potential Hire Web Developer candidates on the following concepts and should take about 30 mintues to complete.
@@ -29,3 +30,17 @@ We are trying to build a simple React app that renders information retrieved fro
 The final implementation should result in the user being updated on page load by retrieving data from the backend file using Redux.
 
 © Hire 2022
+
+## How to Run the Project
+* BackEnd
+```
+    cd server
+    npm install
+    npm run start
+```
+* FrontEnd
+```
+    cd server
+    npm install
+    npm run start
+```
